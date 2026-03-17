@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="container mx-auto flex items-center justify-between h-20 px-4 md:px-8">
         <Link to="/" className="flex items-center gap-2">
-          <img src={logo} alt="Vidya Vriksh Foundation" className="h-14 w-14" />
+          <img src={logo} alt="Vidya Vriksh Foundation" className="h-18 w-18" />
           <span className="font-display text-lg font-bold text-foreground hidden sm:inline">
             Vidya Vriksh
           </span>
